@@ -1,2 +1,16 @@
 /*Whatever you type in codepen's CSS section, paste below */
 
+h1 {
+  color:purple;
+}
+h3 {
+  color:999;
+}
+h2 {
+  color:blue
+}
+img {
+  width:300px
+}
+img.galleryimage {
+  width:200px;
